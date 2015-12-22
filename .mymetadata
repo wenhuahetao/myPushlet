@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="pushlet"
+  id="myeclipse.1315970333029"
+  context-root="/pushlet"
+  j2ee-spec="1.4"
+  archive="pushlet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
